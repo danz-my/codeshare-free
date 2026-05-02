@@ -1,0 +1,13 @@
+{
+  "name": "sharecode",
+  "version": "2.0.0",
+  "description": "Share code from src folder - Modern & Elegant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
